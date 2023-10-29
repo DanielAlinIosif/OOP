@@ -1,0 +1,11 @@
+{
+  "git.allowForcePush": true,
+  "git.allowNoVerifyCommit": true,
+  "git.autofetch": true,
+  "git.autofetchPeriod": 60,
+  "git.terminalGitEditor": true,
+  "git.showPushSuccessNotification": true,
+  "git.rememberPostCommitCommand": true,
+  "git.promptToSaveFilesBeforeStash": "never",
+  "git.promptToSaveFilesBeforeCommit": "never"
+}
